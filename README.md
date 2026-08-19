@@ -1,0 +1,2 @@
+# Opportunity-Tracking-Direct-vs.-Partner-Channel-Performance
+This dashboard analyzes Direct and Partner sales channels to uncover revenue trends, deal performance, regional opportunities, product and customer insights, and sales funnel patterns. It highlights key growth opportunities and pipeline gaps to support stronger sales strategies, improve conversion, and enable data-driven business decisions.
